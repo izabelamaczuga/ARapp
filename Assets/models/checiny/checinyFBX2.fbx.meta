@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 770b36fccc02dfe44826126ccf7b54af
+timeCreated: 1529960677
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bud1
+    100002: bud2
+    100004: //RootNode
+    100006: dach
+    100008: domek_ob_ok
+    100010: kolejnyDomek
+    100012: kosciol
+    100014: mur
+    100016: ogrodzenie1
+    100018: ogrodzenie2
+    100020: ogrodzenie3
+    100022: ok
+    100024: trawa
+    100026: wieza1
+    100028: wieza2
+    100030: wieza_kwadratowa
+    100032: zamek
+    400000: bud1
+    400002: bud2
+    400004: //RootNode
+    400006: dach
+    400008: domek_ob_ok
+    400010: kolejnyDomek
+    400012: kosciol
+    400014: mur
+    400016: ogrodzenie1
+    400018: ogrodzenie2
+    400020: ogrodzenie3
+    400022: ok
+    400024: trawa
+    400026: wieza1
+    400028: wieza2
+    400030: wieza_kwadratowa
+    400032: zamek
+    2100000: Mat
+    2100002: szyby
+    2100004: cegowka
+    2100006: No Name
+    2100008: wiezaKwadratowaDrewno
+    2100010: dach
+    2100012: mury
+    2100014: cegowka.1
+    2100016: cegowka.2
+    2100018: drewnoDom3.1
+    2100020: cegowka.3
+    2100022: dach.1
+    2100024: cegowka.4
+    2100026: drewnoDom3.2
+    2100028: dach.2
+    2100030: cegowka.5
+    2100032: dach.3
+    2100034: cegowka.6
+    2100036: cegowka.7
+    2100038: mury.1
+    2100040: okiennice
+    2100042: dach.4
+    2100044: mury.2
+    2100046: dach.5
+    2100048: okiennice.1
+    2100050: drzwi.1
+    2100052: mury.3
+    2100054: dach.6
+    2300000: bud1
+    2300002: bud2
+    2300004: dach
+    2300006: domek_ob_ok
+    2300008: kolejnyDomek
+    2300010: kosciol
+    2300012: mur
+    2300014: ogrodzenie1
+    2300016: ogrodzenie2
+    2300018: ogrodzenie3
+    2300020: trawa
+    2300022: wieza1
+    2300024: wieza2
+    2300026: wieza_kwadratowa
+    3300000: bud1
+    3300002: bud2
+    3300004: dach
+    3300006: domek_ob_ok
+    3300008: kolejnyDomek
+    3300010: kosciol
+    3300012: mur
+    3300014: ogrodzenie1
+    3300016: ogrodzenie2
+    3300018: ogrodzenie3
+    3300020: trawa
+    3300022: wieza1
+    3300024: wieza2
+    3300026: wieza_kwadratowa
+    4300000: trawa
+    4300002: wieza_kwadratowa
+    4300004: dach
+    4300006: mur
+    4300008: kolejnyDomek
+    4300010: domek_ob_ok
+    4300012: kosciol
+    4300014: bud1
+    4300016: wieza1
+    4300018: wieza2
+    4300020: bud2
+    4300022: ogrodzenie1
+    4300024: ogrodzenie2
+    4300026: ogrodzenie3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

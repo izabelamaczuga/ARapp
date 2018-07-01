@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: cda05db41c4bf8d41a800482c8b1945c
+timeCreated: 1528989766
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: boczek
+    100002: boczek_2
+    100004: boczek_3
+    100006: boczek_3_2
+    100008: boczek_3_3
+    100010: boczek_3_Instance
+    100012: boczek_4
+    100014: boczek_5
+    100016: boczek_6
+    100018: boczek_7
+    100020: boczek_Instance
+    100022: boczek_Instance_1
+    100024: boczek_Instance_2
+    100026: boczek_Instance_3
+    100028: boczek_Instance_4
+    100030: boczek_Instance_5
+    100032: calosc
+    100034: dach_1
+    100036: instancje
+    100038: przd
+    100040: przod
+    100042: //RootNode
+    100044: spod
+    100046: trawa
+    100048: wieza
+    400000: boczek
+    400002: boczek_2
+    400004: boczek_3
+    400006: boczek_3_2
+    400008: boczek_3_3
+    400010: boczek_3_Instance
+    400012: boczek_4
+    400014: boczek_5
+    400016: boczek_6
+    400018: boczek_7
+    400020: boczek_Instance
+    400022: boczek_Instance_1
+    400024: boczek_Instance_2
+    400026: boczek_Instance_3
+    400028: boczek_Instance_4
+    400030: boczek_Instance_5
+    400032: calosc
+    400034: dach_1
+    400036: instancje
+    400038: przd
+    400040: przod
+    400042: //RootNode
+    400044: spod
+    400046: trawa
+    400048: wieza
+    2100000: cegoweczka
+    2100002: Mat
+    2100004: trawa
+    2100006: cegoweczka.1
+    2100008: dach2
+    2100010: biale
+    2100012: oknoboki
+    2100014: cegoweczka.2
+    2100016: cegoweczka.3
+    2100018: cegoweczka.4
+    2100020: cegoweczka.5
+    2100022: cegoweczka.6
+    2100024: cegoweczka.7
+    2100026: cegoweczka.8
+    2100028: cegoweczka.9
+    2100030: cegoweczka.10
+    2100032: dach2.1
+    2100034: biale.1
+    2100036: okno
+    2100038: cegoweczka.11
+    2300000: boczek
+    2300002: boczek_2
+    2300004: boczek_3
+    2300006: boczek_3_2
+    2300008: boczek_3_3
+    2300010: boczek_4
+    2300012: boczek_5
+    2300014: boczek_6
+    2300016: boczek_7
+    2300018: calosc
+    2300020: dach_1
+    2300022: przd
+    2300024: przod
+    2300026: spod
+    2300028: trawa
+    2300030: wieza
+    3300000: boczek
+    3300002: boczek_2
+    3300004: boczek_3
+    3300006: boczek_3_2
+    3300008: boczek_3_3
+    3300010: boczek_4
+    3300012: boczek_5
+    3300014: boczek_6
+    3300016: boczek_7
+    3300018: calosc
+    3300020: dach_1
+    3300022: przd
+    3300024: przod
+    3300026: spod
+    3300028: trawa
+    3300030: wieza
+    4300000: przod
+    4300002: spod
+    4300004: trawa
+    4300006: calosc
+    4300008: dach_1
+    4300010: boczek_3
+    4300012: boczek_3_2
+    4300014: boczek
+    4300016: boczek_2
+    4300018: boczek_3_3
+    4300020: boczek_4
+    4300022: boczek_5
+    4300024: boczek_6
+    4300026: boczek_7
+    4300028: wieza
+    4300030: przd
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

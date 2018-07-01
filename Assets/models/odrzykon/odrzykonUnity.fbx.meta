@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: f9f4c75ad9f4e9b46a6d3048b2e93179
+timeCreated: 1528990203
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bud2
+    100002: bud3
+    100004: bud3_2
+    100006: bud4
+    100008: dom1
+    100010: mur2
+    100012: murek3
+    100014: murek4
+    100016: murek5
+    100018: murekMAly
+    100020: mury
+    100022: //RootNode
+    100024: PART1
+    100026: PART2
+    100028: PART3
+    100030: PART4
+    100032: Plane
+    100034: Plane_1
+    100036: trawa
+    100038: wieza
+    100040: wieza_2
+    100042: wiezaJasna
+    100044: wiezaKwadratowa
+    100046: wiezaOkraglaBEz
+    100048: ZAMEKK_1
+    400000: bud2
+    400002: bud3
+    400004: bud3_2
+    400006: bud4
+    400008: dom1
+    400010: mur2
+    400012: murek3
+    400014: murek4
+    400016: murek5
+    400018: murekMAly
+    400020: mury
+    400022: //RootNode
+    400024: PART1
+    400026: PART2
+    400028: PART3
+    400030: PART4
+    400032: Plane
+    400034: Plane_1
+    400036: trawa
+    400038: wieza
+    400040: wieza_2
+    400042: wiezaJasna
+    400044: wiezaKwadratowa
+    400046: wiezaOkraglaBEz
+    400048: ZAMEKK_1
+    2100000: trawa
+    2100002: okna
+    2100004: ceglaCzerwona
+    2100006: cegla
+    2100008: dach
+    2100010: No Name
+    2100012: cegla.1
+    2100014: ceglazOknem
+    2100016: dach.1
+    2100018: cegla.2
+    2100020: ceglaCzerwona.1
+    2100022: dach.2
+    2100024: cegla.3
+    2100026: dach.3
+    2100028: okna2
+    2100030: drzwi
+    2100032: dach.4
+    2100034: cegla.4
+    2100036: ceglazOknem.1
+    2100038: ceglaCzerwona.2
+    2100040: ceglaCzerwonaZOknem
+    2100042: okna2.1
+    2100044: cegla.5
+    2100046: trawa.1
+    2100048: cegla.6
+    2100050: ceglazOknem.2
+    2100052: cegla.7
+    2100054: dach.6
+    2100056: dach.7
+    2100058: cegla.8
+    2100060: okna2.2
+    2100062: cegla.9
+    2100064: dach.8
+    2100066: okna2.3
+    2100068: cegla.10
+    2100070: dach.9
+    2100072: cegla.11
+    2100074: ceglaCzerwona.3
+    2100076: dach.10
+    2100078: cegla.12
+    2100080: dach.11
+    2100082: ceglazOknem.3
+    2100084: okna2.4
+    2100086: drzwi.2
+    2100088: drzwi.1
+    2100090: trawa.2
+    2100092: ceglazOknem.4
+    2100094: cegla.13
+    2100096: ceglazOknem.5
+    2100098: ceglazOknem.6
+    2100100: cegla.14
+    2100102: cegla.15
+    2100104: dach.13
+    2300000: bud2
+    2300002: bud3
+    2300004: bud3_2
+    2300006: bud4
+    2300008: dom1
+    2300010: mur2
+    2300012: murek3
+    2300014: murek4
+    2300016: murek5
+    2300018: murekMAly
+    2300020: mury
+    2300022: Plane
+    2300024: Plane_1
+    2300026: trawa
+    2300028: wieza
+    2300030: wieza_2
+    2300032: wiezaJasna
+    2300034: wiezaKwadratowa
+    2300036: wiezaOkraglaBEz
+    2300038: ZAMEKK_1
+    3300000: bud2
+    3300002: bud3
+    3300004: bud3_2
+    3300006: bud4
+    3300008: dom1
+    3300010: mur2
+    3300012: murek3
+    3300014: murek4
+    3300016: murek5
+    3300018: murekMAly
+    3300020: mury
+    3300022: Plane
+    3300024: Plane_1
+    3300026: trawa
+    3300028: wieza
+    3300030: wieza_2
+    3300032: wiezaJasna
+    3300034: wiezaKwadratowa
+    3300036: wiezaOkraglaBEz
+    3300038: ZAMEKK_1
+    4300000: trawa
+    4300002: wiezaKwadratowa
+    4300004: mury
+    4300006: wieza
+    4300008: dom1
+    4300010: ZAMEKK_1
+    4300012: murekMAly
+    4300014: Plane
+    4300016: mur2
+    4300018: wiezaJasna
+    4300020: bud2
+    4300022: bud3
+    4300024: wiezaOkraglaBEz
+    4300026: wieza_2
+    4300028: bud3_2
+    4300030: Plane_1
+    4300032: murek3
+    4300034: murek4
+    4300036: murek5
+    4300038: bud4
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 75eabcf6ac24b0b4fbbf6af9ca0581ad
+timeCreated: 1528990507
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BUD1
+    100002: BUD2
+    100004: BUD3
+    100006: BUD4
+    100008: BUD5_1
+    100010: BUD6
+    100012: BUD7
+    100014: mur
+    100016: MUR1
+    100018: MUR2
+    100020: //RootNode
+    100022: TRAWA
+    100024: WIEZA
+    100026: WIEZA2
+    100028: WIEZA3
+    100030: WIEZA_MALA
+    400000: BUD1
+    400002: BUD2
+    400004: BUD3
+    400006: BUD4
+    400008: BUD5_1
+    400010: BUD6
+    400012: BUD7
+    400014: mur
+    400016: MUR1
+    400018: MUR2
+    400020: //RootNode
+    400022: TRAWA
+    400024: WIEZA
+    400026: WIEZA2
+    400028: WIEZA3
+    400030: WIEZA_MALA
+    2100000: Mat.2
+    2100002: mur
+    2100004: Mat.1
+    2100006: mur.1
+    2100008: DACH
+    2100010: Mat
+    2100012: No Name
+    2100014: mur.2
+    2100016: DACH.1
+    2100018: mur.3
+    2100020: Mat.1.1
+    2100022: Mat.1.2
+    2100024: mur.5
+    2100026: mur.4
+    2100028: Mat.1.3
+    2100030: mur.7
+    2100032: mur.6
+    2100034: mur.8
+    2100036: DACH.2
+    2100038: DACH.3
+    2100040: mur.9
+    2100042: Mat.3
+    2100044: mur.10
+    2100046: DACH.4
+    2100048: Mat.4
+    2100050: mur.11
+    2100052: DACH.5
+    2100054: Mat.5
+    2100056: mur.12
+    2100058: DACH.6
+    2100060: Mat.6
+    2100062: Mat.1.4
+    2100064: mur.13
+    2100066: DACH.7
+    2100068: okno2
+    2100070: DACH.8
+    2100072: Mat.1.5
+    2100074: Mat.1.6
+    2100076: mur.15
+    2100078: mur.14
+    2300000: BUD1
+    2300002: BUD2
+    2300004: BUD3
+    2300006: BUD4
+    2300008: BUD5_1
+    2300010: BUD6
+    2300012: BUD7
+    2300014: mur
+    2300016: MUR1
+    2300018: MUR2
+    2300020: TRAWA
+    2300022: WIEZA
+    2300024: WIEZA2
+    2300026: WIEZA3
+    2300028: WIEZA_MALA
+    3300000: BUD1
+    3300002: BUD2
+    3300004: BUD3
+    3300006: BUD4
+    3300008: BUD5_1
+    3300010: BUD6
+    3300012: BUD7
+    3300014: mur
+    3300016: MUR1
+    3300018: MUR2
+    3300020: TRAWA
+    3300022: WIEZA
+    3300024: WIEZA2
+    3300026: WIEZA3
+    3300028: WIEZA_MALA
+    4300000: TRAWA
+    4300002: MUR1
+    4300004: BUD2
+    4300006: BUD3
+    4300008: MUR2
+    4300010: WIEZA3
+    4300012: WIEZA2
+    4300014: BUD4
+    4300016: BUD5_1
+    4300018: BUD6
+    4300020: BUD7
+    4300022: BUD1
+    4300024: WIEZA_MALA
+    4300026: mur
+    4300028: WIEZA
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
